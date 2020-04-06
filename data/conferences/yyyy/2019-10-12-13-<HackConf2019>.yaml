@@ -1,0 +1,269 @@
+conference: HackConf 2019
+
+  name: HackConf 2019
+  status: complete
+
+  links:
+    playlist: https://www.youtube.com/watch?v=769X9iMdvNI&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz
+    twitter: HackConf_
+    youtube: UClxooLdBT49Kp9_UC0l_7gQ
+    website:https://2019.hackconf.bg/en/
+  date:
+    from: 2019-10-12
+    to: 2019-10-13
+  location: Sofia, Bulgaria
+  description: HackConf is Bulgaria's premier software development conference, happening in Sofia.
+Organized “by developers, for developers”, it covers a wide range of software development topics, regardless of the tech stack.
+
+talks:
+
+  - title: The Groundhog Development Method
+    lang: en
+    type: regular
+    time: 2019-10-12 10:30
+    authors: Bozhidar Batsov
+    - Twitter: https://twitter.com/bbatsov
+    - YouTube: https://www.youtube.com/watch?v=M1XeHPSP5Bg&t=
+    slides: https://drive.google.com/file/d/1mUWDi3a8iVTvM33mHy6AKgwp3jTE4mpC/view
+    videos: https://www.youtube.com/watch?v=aI0rGBMZkp4&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=2
+    description: I guess many of you are young enough to have never heard of the "Groundhog Day" movie (released way back in 1993), which serves as the inspiration for this talk's title. Without ruining the great movie for you I'll tell you it's about a man whose life is stuck in a loop, and unless he changes something his life is not going anywhere. Does this story remind you of something else? A lot of software projects are also stuck in a loop - starting strong, quickly drowning in complexity, eventually discarded and replaced by projects which ultimately suffer a similar fate. You've seen this happen many times, right? In this talk we'll discuss what exactly is wrong, how did we end up in this mess, and what should change to break that vicious cycle. And maybe we'll have a bit of fun while doing so!
+    
+    - title: Success Hacking 101: How to Survive the Commoditization of Your Job
+    lang: en
+    type: regular
+    time: 2019-10-12 11:20
+    authors: Matt Landheim
+    slides: https://drive.google.com/file/u/1/d/1U7rIqGgDr6I4gb1pNsTIh8dUBa-jx15R/view?usp=sharing
+    videos: https://www.youtube.com/watch?v=Ta-tLaIhcI0&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=3
+    description: Tech and tech talent are becoming commoditized. This is happening within organizations and within teams. Although tech hiring is still tight, globalization, automation, AI, Cloud, skill shift, and other tectonic movements are changing the tide. What used to be irreplaceable tech and tech talent can now be bought on the open market and substituted for what is already in place. For software engineers, this means our tech skills are increasingly replaceable, which means we are increasingly replaceable. It may be hard to believe when software engineers are in high demand and our wages are skyrocketing, but the writing is on the wall: Software engineers need much more than just tech skills to survive and add real value to today’s teams and organizations. Come find out what skills you should be learning and practising to stand out in the software engineering crowd, be irreplaceable and invaluable to organizations and teams, and succeed in life.
+    
+    - title: If you can drive you can architect a system -what you shouldn't forget when architecting a system
+    lang: en
+    type: regular
+    time: 2019-10-12 13:30
+    authors: Ayelet Sachto
+    - Twitter: https://twitter.com/ayeletsachto
+    description: Architecture and solution design can be challenging. In this talk, I will demonstrate how architecting a solution can be as natural as driving a car, implementing similar concerns and logic to your design can make you a better engineer and your services more efficient.Driver license is not required.
+    
+    - title: The Useless Leader is the Best Leader!
+    lang: en
+    type: regular
+    time: 2019-10-12 13:30
+    authors: Alexander Popov
+    - LinkedIn: https://www.linkedin.com/in/alexander-popov/
+    videos: https://www.youtube.com/watch?v=W6PFOGFV2TI&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=5
+    description: Command & Control is still the predominant leadership style in the software industry, except maybe in the most successful super-growth organisations. The talk explores why is there a trend and what we can learn from the successes of existing and past Unicorns when it comes to building and leading a high quality engineering team. I claim leaders should “serve” instead of “command” - act as enabler to all the smart people in their teams and exploit the power of the “subject matter experts” by empowering them with making decisions and owning the delivery. My engineers and managers do not work for me. I work for them - they are the “boss”. That works great for me, for my engineering team and for the organisation. The talk aims at sharing how and why that works, what are the problems that it imposes and how to mitigate or solve them.
+    
+    - title: SOLID principles - {part 1 of 5} - "S" the most misunderstood principle
+    lang: en
+    type: regular
+    time: 2019-10-12 14:20
+    authors: Martin Chaov
+    - LinkedIn: https://www.linkedin.com/in/martin-chaov-79912910/
+    slides: https://drive.google.com/file/u/1/d/1HkgYWZ4mD3x_RHrI2s82LxtI0cMmH5v0/view?usp=sharing
+    videos: https://www.youtube.com/watch?v=hp-sOdjkkjM&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=4
+    description: In object-oriented computer programming, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable. “Single purpose” sounds self explanatory and developers usually assume they understand it and move on towards the other principles. In this talk I am going to take them back few steps and explain what stands behind this principle and how to apply it to multiple levels of the application architecture.
+    
+    - title: DevCorp: choose your own adventure
+    lang: en
+    type: regular
+    time: 2019-10-12 14:20
+    authors: Pauline Vos
+    - Twitter: https://twitter.com/vanamerongen 
+    - Website: https://www.pauline-vos.nl/
+    slides: 
+    videos: https://www.youtube.com/watch?v=mMH5iXRUygo&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=8
+    description: This interactive talk will give you some valuable technical and soft skills to take with you on your real-life professional journey. Based on a mix of personal experience, agile methodology, and software design principles, this story has several possible endings. Audience vote decides.
+    
+    - title: Does functional programming actually help in production?
+    lang: en
+    type: regular
+    time: 2019-10-12 15:20
+    authors: Robert Avram
+    - Twitter: https://twitter.com/amrobert11
+    slides: https://drive.google.com/file/d/1ssk6RtSiYxF8Uya3AEA-G-w-GshGKHKw/view
+    videos: https://www.youtube.com/watch?v=Epd2r2-dftY&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=7
+    description: The presence and adoption of functional programming concepts in mainstream languages has continuously become more prevalent within the last few years. This leads one to believe, that the things this paradigm has to provide are apparently, in some way, beneficial. Now two questions arise. To what extent is it beneficial and how do these things actually make a difference in my production application? In this talk I’d like to travel across the planes of functional programming and show you how this paradigm helped us, what concepts made a difference and how it may generally, probably, be able to help others.
+    
+    - title: Image Fingerprinting with Keypoints
+    lang: en
+    type: regular
+    time: 2019-10-12 15:20
+    authors: Vassil Lunchev
+    - LinkedIn: https://www.linkedin.com/in/vassil-lunchev/
+    - YouTube: https://www.youtube.com/watch?v=HkaE0VnkV3k&feature=youtu.be
+    slides: https://drive.google.com/file/d/1s7wQas58CVnPfpbFTWQRosX_BGCO9dxO/view
+    videos: https://www.youtube.com/watch?v=YGpR-9GWiB8&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=6
+    description: Here is the problem - we have 5,000,000 .jpg files, many of which are the same. We have to: - Find all duplicated images - Find them even if they were edited in Photoshop - Find them even if the images are different (from different cameras) but the objects on the photos are the same. What is Image Fingerprinting and how to do Image Fingerprinting with Keypoint Matching? Come at #hackconf this October 11-13 and learn from Vassil Lunchev.
+    
+    - title: WTF, Languages!?
+    lang: en
+    type: regular
+    time: 2019-10-12 16:10
+    authors: Alexander Georgiev
+    - Facebook: https://www.facebook.com/esprr
+    slides: https://drive.google.com/file/d/1PIpcilO4rcYR9WpxrVRBO-mx4k1FDnhN/view
+    videos: https://www.youtube.com/watch?v=twKTR5lvaZI&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=9
+    description: Do you know what “(new Date()).getYear()” will return in Javascript? What does the expression “True is False == False” evaluate to in Python? Is 10 * (1 / 10.0) == 1 in C++? Come and see - the results might shock you! These 3 weird tricks helped Alexander become a better programmer. Enlarge your knowledge!
+    
+    - title: The click that will bring your weekend back
+    lang: en
+    type: regular
+    time: 2019-10-12 16:10
+    authors: Tosho Trajanov 
+    - Twitter: https://twitter.com/tstrv
+    - Website: https://toshotrajanov.com/
+    slides: https://drive.google.com/file/u/1/d/1_Z4s-E-hCfUOBIielJ5ZeXWo3O0VkisK/view?usp=sharing
+    videos: https://www.youtube.com/watch?v=tRYP3ilI-6Y&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=10
+    description: Working with both startups and enterprises, over the years I noticed that many of the companies have challenges setting up strong release practices. That results with risky, error-prone releases followed up with a lot of bugs which cost them a lot of resources. With this talk, I am aiming to inspire people to step back from the day to day operations and think about how setting up a fully automated process is going to benefit the companies they are working with and at the same time get their weekends back. I will talk about optimizing the release process on different levels in the organization, as well as leveling up the quality of the technology. I will also introduce some tools and techniques to the audience that helped us create a steady pipeline. The talk is perfect for tech leads, CTOs, or software engineers who are looking forward to bringing improvement in their organizations.
+    
+    - title: Debugging people
+    lang: en
+    type: regular
+    time: 2019-10-12 17:10
+    authors: Mila Petkova
+    - LinkedIn: https://www.linkedin.com/in/mila-petkova-phd/
+    slides: https://drive.google.com/file/u/1/d/1wG9tPORV5CQ6sxMbs8xZslKvMRy8S-C_/view?usp=sharing
+    videos: https://www.youtube.com/watch?v=eWT0k_FUz0U&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=11
+    description: How therapists debug people? How can I fix and patch myself? How do I design the version of Me2.0? These are valid questions and I will address them in my talk. I am psychotherapist who works mostly with clients from the IT sector and I have a few things to share about mental health in the field.
+    
+    - title: ES9, ES10, and Beyond. ECMAScript Release Roadmap.
+    lang: en
+    type: regular
+    time: 2019-10-12 17:10
+    authors: Martin Ivanov
+    - LinkedIn: https://www.linkedin.com/in/martin-ivanov-901395aa/
+    - YouTube: https://www.youtube.com/watch?v=3xa-kVOSW2A
+    slides: https://drive.google.com/file/u/1/d/19uw0U9-4jYNN7dzE9G0Ny680K3PG2Nkz/view?usp=sharing
+    videos: https://www.youtube.com/watch?v=81CY3MsKyQE&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=12
+    description: What you’re about to learn is how ECMAScript standards are built, who is responsible for that, what are the exact features and what is the way to propose an extension? We will also go through the new features which ECMAScript 2018(ES9) and ECMAScript 2019(ES10) are shipping and what further improvements can be expected in ECMAScript 2020(ES11). We won’t stop at the technical overview but give life to the talk with some practical examples of how the standards differ in real life!
+    
+    - title: Scaling your data layer
+    lang: en
+    type: regular
+    time: 2019-10-12 18:00
+    authors: Ivan Vergiliev
+    - Twitter: https://twitter.com/IvanVergiliev 
+    slides: https://drive.google.com/file/d/1n1JPqgNLEKa16pt4Ylzoj_d2S4IhbiJ8/view
+    videos: https://www.youtube.com/watch?v=WCDeEiPDbQ0&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=13
+    description: So you built your product, and scaled it to a point where you’re starting to collect a lot of data and outgrowing your relational database. How do you scale your data storage systems to handle the volume and load? During my talk on “Scaling out - from First Principles” at HackConf 2018, this was one of the main follow-up questions, so this talk will cover in more detail a set of different approaches to scaling, depending on the requirements, and from first principles again.
+    
+    - title: Performance Profiling Techniques to Make Your Code Awesome
+    lang: en
+    type: regular
+    time: 2019-10-12 10:30
+    authors: 
+    - name: Tim Driscoll 
+    - name: Rositsa Kotseva
+    LinkedIn: https://www.linkedin.com/in/rositsa-kotseva/
+    YouTube: https://www.youtube.com/watch?v=C5ayOIpUPlA
+    slides: https://slides.com/rositsa/hack-conf
+    videos: https://www.youtube.com/watch?v=ig6UyxnN0l0&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=14
+    description: In our lecture, we will cover the following material: Availability Heuristic and Risk Perception / Performance optimizations / What kind of performance optimizations exists? How/When to apply them? /  Program Profiling techniques and tools, such as RunSnake and SnakeViz. / Actual Code example – show the program bottlenecks, create a profiling file and explain how to increase the performance.
+    
+    - title: Ask Me Anything - Panel Session
+    lang: en
+    type: regular
+    time: 2019-10-12 11:20
+    authors: 
+    - name: Ivan Vankov
+    Twitter: https://twitter.com/gatakka?lang=en
+    WebSite: https://gatakka.eu/
+    - name: Marian Marinov
+    LinkedIn: https://www.linkedin.com/in/mariandmarinov/
+    videos: https://www.youtube.com/watch?v=Vb47LA8Al4A&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=15
+    
+    - title: Be nice, help the person who hacks your servers to get your data
+    lang: en
+    type: regular
+    time: 2019-10-12 13:30
+    authors: Vranac Srdjan
+    - Twitter: https://twitter.com/vranac
+    - Website: https://vranac.io/
+    slides: https://drive.google.com/file/d/1oTONZVZ03JMHcV3wHz5vMbJhlHri-Oi1/view
+    videos: https://www.youtube.com/watch?v=4_TcwB7AlnI&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=16
+    description: Where are your credentials and secrets stored? In .env files or in environment variables, or even worse in config files? Are your primary AWS keys shared amongst developers? Do you still have SSH keys from former employees on your servers?
+    
+    - title: Cache me outside - Caching Methodologies and Architectures
+    lang: en
+    type: regular
+    time: 2019-10-12 13:30
+    authors: Anthony Dang
+    - Twitter:  https://twitter.com/anthonydotnet
+    - WebSite: https://anthonydotnet.blogspot.com/
+    - YouTube: https://www.youtube.com/watch?v=7dsdRxiT1qk
+    slides: https://drive.google.com/file/d/1w-0y4WekRKJaODIp0DakSS44YDGIIbzv/view
+    videos: https://www.youtube.com/watch?v=VakR9a9ISo8&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=17
+    description: Caching can be your best friend or your worst best-friend. A poor cache implementation can mean the difference between experiencing blazing fast performance or unexplained random slowness, or both!  It can even result in random stale (out of date) content which you can’t explain. In this presentation, we will demo and compare different caching methodologies, and their perceived real-world uses. We will discuss Donut cache, Memory cache, Redis, Varnish, CDNs, and many more. We will dive into demos of real-world implementations which can cause unpredictable problems. Some of these are horrible, and some are face-palm. At the end of this presentation, you will be aware of the different trade-offs with each caching methodology, and which might best for your situation.
+    
+    - title: The Elements of Style in Programming
+    lang: en
+    type: regular
+    time: 2019-10-12 14:20
+    authors: Bozhidar Batsov
+    - Twitter: https://twitter.com/bbatsov
+    slides: https://drive.google.com/file/d/1IMAynpQ8XmpDKL7FSKn6Nhr69HwAeZ2q/view
+    videos: https://www.youtube.com/watch?v=zB00WYy3XZM&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=18
+    
+    - title: What Can't Deep Learning Do?
+    lang: en
+    type: regular
+    time: 2019-10-12 14:20
+    authors: Svetlin Penkov
+    - LinkedIn: https://www.linkedin.com/in/svpenkov/  
+    videos: https://www.youtube.com/watch?v=6hOu75Qir3A&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=19
+    description: Deep learning has enabled unprecedented achievements in computer vision, natural language processing and reinforcement learning. In this talk, however, we will focus on its limitations and outline a few state of the art problems which we need to solve before we truly advance the capabilities of AI.
+    
+    - title:A Thousand Words: How I'm still not using GUIs in 2019
+    lang: en
+    type: regular
+    time: 2019-10-12 15:20
+    authors: Lucas Fernandes da Costa 
+    - Twitter:  https://twitter.com/thewizardlucas
+    - WebSite: https://lucasfcosta.com/
+    - YouTube: https://www.youtube.com/watch?v=Z2KzXuZwXdc
+    slides: https://drive.google.com/file/d/1__-tWZ2ljS7-2srXueu6RF-_S7QIWziX/view
+    videos: https://www.youtube.com/watch?v=FXaPSlLv0q4&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=20
+    description: Is an image really worth a thousand words? In software engineering, it isn’t. In this talk, I’ll explore the UNIX philosophy and modern development workflows to show you how practical, timeless and elegant plain-text tools are, and teach you how to use them efficiently to leverage productivity.
+        
+    - title: Notes from My Travels: Building Effective Teams When You're in Different Places
+    lang: en
+    type: regular
+    time: 2019-10-12 15:20
+    authors: Euan Finlay
+    - Twitter:  https://twitter.com/efinlay24
+    - YouTube: https://www.youtube.com/watch?v=GP_hnyJUptI
+    slides: https://drive.google.com/file/d/1wGOz5jvdKXxVaNGaJmDtWb8rm_irHfrL/view
+    description: Flexible working and distributed teams are key to how we work in technology, and many companies are embracing the benefits. However, it’s not an easy task to help teams collaborate effectively across time zones. I’ll share my personal experiences and case studies about leading distributed teams.
+    
+    - title: Productivity for developers
+    lang: en
+    type: regular
+    time: 2019-10-12 16:10
+    authors: Radoslav Stankov 
+    - Twitter:  https://twitter.com/rstankov
+    - WebSite: https://rstankov.com/
+    - YouTube: https://www.youtube.com/watch?v=c4AJJu-QsX8
+    slides: https://speakerdeck.com/rstankov/productivity-for-developers
+    videos: https://www.youtube.com/watch?v=U_vP7W_Xw-I&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=21
+    description: A lot of people talk about productivity. But this is one of those terms where everyone uses, but nobody clearly understands. I’m going to share my process to be active and deliver quality work. / Define what is “productivity,” “effectiveness” and “process”. / How to split and define tasks. / What to do when you stuck at a problem. / How to improve your tooling. / How to deal with non-coding activities like meetings, emails.
+    
+    - title: Hardware connectivity on the progressive web
+    lang: en
+    type: regular
+    time: 2019-10-12 16:10
+    authors: Majid Hajian
+    - Twitter:  https://twitter.com/mhadaily
+    slides: https://slides.com/mhadaily/hardware-connectivity-on-pwa#/
+    description: The browsers can actually take control of physical devices in the real world like lightbulbs, robots, printers, NFC tags, toys, and even drones by providing new web standard hardware connectivity APIs such as WebBluetooth, WebUSB, WebNFC and etc. / On the other hand, Progressive web apps open a new era to build a web application that works offline and resemble a native application. Hence, every day we are getting closer to run web apps only on browsers that don’t need to be installed from any app store and it will take control of hardware around us./ In this session, I am going through some of the web capabilities to connect devices into a progressive web app and show how the web could go beyond the browsers and take control of our devices around us.
+    
+    - title: Introduction to Machine Learning
+    lang: en
+    type: regular
+    time: 2019-10-12 17:00
+    authors: Stefan Kanev
+    - Twitter:  https://twitter.com/skanev
+    videos: https://www.youtube.com/watch?v=xHXWqMkg4EI&list=PLmpSOHJJON0D1b02KwpwnELOQzE9M5iiz&index=22
+    description: Machine Learning / Deep Learning is where all the hype is. From automation to self-driving cars, there are a lot of applications. To be effective in it, you need to combine various skills – engineering, statistics and programming. / This talk will aim to do three things: (1) sketch the lay of the land in the world of ML, (2) give an overview of the most popular tools and (3) sketch the next steps if you're considering specializing in it./ By the end of it, you should walk away with a basic understanding of what machine learning is and how to start learning and applying it.
+    
+              
